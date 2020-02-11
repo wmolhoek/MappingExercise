@@ -1,2 +1,0 @@
-# MappingExercise
-Created with CodeSandbox
